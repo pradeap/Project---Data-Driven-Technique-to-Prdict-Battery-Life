@@ -1,4 +1,4 @@
-# Project - Data Driven Technique to Prdict Battery Life
+# Project - Data Driven Technique to Predict Battery Life
 
 
 The dataset is obtained for NASA Prognostics Center of Excellence - Data Repository. The files are available in the .mat format
